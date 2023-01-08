@@ -1,0 +1,17 @@
+*{
+    margin: 0%; padding: 0%;
+}
+.header{
+    background-image: url('img/banner2.png');
+    background-position: center;
+    background-size: cover;
+    height:100vh;
+}
+.banner{
+    position: absolute;
+    padding-right: 100px;
+    height: 228px;
+    left: 700px;
+    top: 216px;
+    text-align: right;
+}
